@@ -1,11 +1,14 @@
-# hello, i'm @thetaism! 👋
+# hello, i'm @thetaism! 🤍
 
 ### about me
 i'm an indie programmer passionate about gamedev and coding in general. i also enjoy playing video games (mainly overwatch) and listening to pop music.
 
 ### skills
 - **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
-- **technologies & tools:** ```godot```
+- **technologies & tools:** ```godot```, ```roblox```
+
+### socials
+[https://bento.me/thetaism]
 
 <!--
 **thetaism/thetaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
