@@ -8,7 +8,7 @@ i'm an indie programmer passionate about gamedev and coding in general. i also e
 - **technologies & tools:** ```godot```, ```roblox```
 
 ### socials
-[https://bento.me/thetaism]
+[https://bento.me/thetaism](my bento)
 
 <!--
 **thetaism/thetaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
