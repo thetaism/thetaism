@@ -1,7 +1,7 @@
 # hello, i'm @thetaism! 🤍
 
 ### about me 👰
-i'm an indie programmer passionate about gamedev and coding in general. i also enjoy playing video games (mainly overwatch) and listening to pop music.
+i'm an indie programmer passionate about gamedev and coding in general. i also do a lot of gaming and enjoying pop music.
 
 ### skills 👩‍💻
 - **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
