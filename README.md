@@ -1,4 +1,4 @@
-# hello, i'm @thetaism! 🤍
+# hello, i am @thetaism! 🤍
 
 ### about me 👰
 i'm an indie programmer passionate about gamedev and coding in general. i also do a lot of gaming and enjoying pop music.
