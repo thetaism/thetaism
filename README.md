@@ -1,7 +1,7 @@
 # hello, i am @thetaism! 🤍
 
 ### about me 👰
-i'm an indie programmer passionate about gamedev and coding in general. i also do a lot of gaming and enjoying pop music.
+i'm an ambitious linguistics freshman, part-time indie programmer who's passionate about gamedev and coding in general. in my spare time i also do a lot of gaming and enjoying pop music.
 
 ### skills 👩‍💻
 - **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
