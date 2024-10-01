@@ -8,9 +8,6 @@
 - **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
 - **technologies & tools:** ```godot```, ```roblox```
 
-### socials 🌏
-https://bento.me/thetaism
-
 <!--
 **thetaism/thetaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
