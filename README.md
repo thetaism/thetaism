@@ -6,7 +6,7 @@
 
 ### skills 👩‍💻
 - **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
-- **technologies & tools:** ```godot```, ```roblox```
+- **technologies & tools:** ```love2d```, ```godot```, ```roblox```, ```django```, ```flask```, ```laravel```
 
 <!--
 **thetaism/thetaism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
