@@ -5,7 +5,7 @@
 - a lot of my work is kept private or locally, so don't expect much on here ! 
 
 ### skills 👩‍💻
-- **programming languages:** ```c#```, ```lua```, ```javascript```, ```gdscript```, ```python```, ```html```, ```css```
+- **programming languages:** ```c#```, ```lua```, ```javascript```, ```php```, ```gdscript```, ```python```, ```html```, ```css```
 - **technologies & tools:** ```love2d```, ```godot```, ```roblox```, ```django```, ```flask```, ```laravel```
 
 <!--
